@@ -1,0 +1,53 @@
+
+body {
+    background-color: #FFA8B3;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-famile: serif;
+    font-size: 1vw;
+    font-family: monospace;
+  }
+  
+  .Menu-link {
+    color:white;
+  }
+  
+  h1, h2 {
+    font-family: monospace;
+  }
+  
+  #container{
+  width:80vw;
+  max-width: 1200px;
+  min-width: 300px;
+  margin: 0 auto;
+  }
+  
+  .text-content {
+    font-size: 1.2em;
+  }
+  footer a{
+    color: white;
+  }
+  p {
+    color: white;
+  }
+  }
+  span {
+    color: white;
+  }
+  img {
+  height: 10vw; 
+  width: auto;
+  max-height: 1200px;
+  min-height: 300px;
+  margin: 20px;
+  }
+  #box {
+    width: 20vw;
+    height: 10vw;
+    border: 10px solid white;
+    padding: 4vw;
+    margin: 10px;
+  }
