@@ -1,0 +1,70 @@
+
+body {
+    background-color: #FFA8B3;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 1vw;
+    font-family: monospace;
+  }
+  
+  .Menu-link {
+    color:white;
+  }
+  
+  h1, h2 {
+    font-family: monospace;
+  }
+  
+  #container{
+  width:80vw;
+  margin: auto;
+  }
+
+  #hearts{
+  height: auto; 
+  width: 10vw;
+  margin: auto;
+  }
+
+  #banner{
+  width: 60vw;
+  height: auto;
+  margin: 10px;  
+  }
+  
+  .text-content {
+    font-size: 1.2em;
+  }
+  footer a{
+    color: white;
+  }
+  p {
+    color: white;
+    font-size: 1vw;
+  }
+  
+  span {
+    color: white;
+  }
+
+  #picture {
+    width: 17vw;
+    height: 17vw;
+    border: 10px solid white;
+    padding: 0.5vw;
+    margin: 10px;}
+
+    img {
+      width:auto;
+      height:100%;
+      margin: auto;
+  }
+
+  #box {
+    width: 20vw;
+    height: 10vw;
+    border: 10px solid white;
+    padding: 4vw;
+    margin: 10px;
+  }
