@@ -25,17 +25,17 @@ body {
   }
 
   #hearts{
-  height: auto; 
+  height: 5vw; 
   width: 10vw;
   margin: auto;
   }
 
   #banner{
-  width: 60vw;
-  height: auto;
+  width: 90vw;
+  height: 20vw;
   margin: 10px;  
-  max-width: 1px;
-  max-height: 1px;
+  max-width: 3000px;
+  max-height: 3000px;
   }
   
   .text-content {
@@ -65,8 +65,8 @@ img {
       width:auto;
       height:100%;
       margin: auto;
-      max-width: 6000px;
-      max-height: 6000px;
+      max-width: 3000px;
+      max-height: 3000px;
   }
 
   #box {
