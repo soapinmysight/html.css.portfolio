@@ -62,7 +62,8 @@ body {
       width:auto;
       height:100%;
       margin: auto;
-      max-width: 90vw;
+      max-width: 10000px;
+      max-height: 10000px;
   }
 
   #box {
