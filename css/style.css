@@ -18,7 +18,30 @@ body {
   h1, h2 {
     font-family: monospace;
   }
-  
+
+  img {
+    width:auto;
+    height:100%;
+    margin: auto;
+    max-width: 3000px;
+    max-height: 3000px;
+}
+
+.text-content {
+  font-size: 1.2em;
+}
+footer a{
+  color: white;
+}
+p {
+  color: white;
+  font-size: 1vw;
+}
+
+span {
+  color: white;
+}
+
   #container{
   width:80vw;
   margin: auto;
@@ -37,21 +60,6 @@ body {
   max-width: 3000px;
   max-height: 3000px;
   }
-  
-  .text-content {
-    font-size: 1.2em;
-  }
-  footer a{
-    color: white;
-  }
-  p {
-    color: white;
-    font-size: 1vw;
-  }
-  
-  span {
-    color: white;
-  }
 
   #picture {
     width: 17vw;
@@ -60,14 +68,6 @@ body {
     padding: 0.5vw;
     margin: 10px;
 }
-
-img {
-      width:auto;
-      height:100%;
-      margin: auto;
-      max-width: 3000px;
-      max-height: 3000px;
-  }
 
   #box {
     width: 20vw;
