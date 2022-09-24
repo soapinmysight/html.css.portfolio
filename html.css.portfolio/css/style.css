@@ -1,4 +1,7 @@
-
+html{
+  padding:0px;
+  margin:0px;
+}
 body {
     background-color: #FFA8B3;
     color: white;
