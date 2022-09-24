@@ -34,6 +34,8 @@ body {
   width: 60vw;
   height: auto;
   margin: 10px;  
+  max-width: 6000px;
+  max-height: 6000px;
   }
   
   .text-content {
@@ -56,7 +58,8 @@ body {
     height: 17vw;
     border: 10px solid white;
     padding: 0.5vw;
-    margin: 10px;}
+    margin: 10px;
+}
 
     img {
       width:auto;
