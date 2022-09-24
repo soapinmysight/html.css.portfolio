@@ -1,4 +1,7 @@
-
+html{
+  padding:0px;
+  margin:0px;
+}
 body {
     background-color: #FFA8B3;
     color: white;
@@ -22,15 +25,17 @@ body {
   }
 
   #hearts{
-  height: auto; 
+  height: 5vw; 
   width: 10vw;
   margin: auto;
   }
 
   #banner{
-  width: 60vw;
-  height: auto;
+  width: 90vw;
+  height: 20vw;
   margin: 10px;  
+  max-width: 3000px;
+  max-height: 3000px;
   }
   
   .text-content {
@@ -53,12 +58,15 @@ body {
     height: 17vw;
     border: 10px solid white;
     padding: 0.5vw;
-    margin: 10px;}
+    margin: 10px;
+}
 
-    img {
+img {
       width:auto;
       height:100%;
       margin: auto;
+      max-width: 3000px;
+      max-height: 3000px;
   }
 
   #box {
