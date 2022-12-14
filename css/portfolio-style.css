@@ -121,6 +121,11 @@ h1   {
     text-align: right;
     width: 30vw; 
   }
+
+.knowmore a img {
+width: 30vw; 
+flex-direction: column;
+}
   
 /*footer*/
 
