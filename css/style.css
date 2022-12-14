@@ -159,7 +159,7 @@ footer {
 }
 
 /*for different sized devices*/
-@media (min-width: 480px) and (max-width: 1023px) {
+@media (max-width: 1023px) {
   .navbar {
     flex-direction: column;
     align-items: center;
