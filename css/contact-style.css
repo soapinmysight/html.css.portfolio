@@ -173,7 +173,7 @@ input:valid {
 /*cards*/
 .cards {
   display: flex;
-  width: 80vw;
+  width: calc(100vw - 10px);
   margin: 0 auto;
   justify-content: space-between;
   gap: 1vw;
