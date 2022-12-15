@@ -156,6 +156,19 @@ button {
     flex-basis: 47%;
 }
 
+/*form validation*/
+input:invalid {
+  border: 2px dashed rgb(255, 255, 255);
+}
+
+input:invalid:required {
+  border: 2px dashed rgb(255, 255, 255);
+}
+
+input:valid {
+  border: 2px dashed rgb(0, 100, 30);
+}
+
 /*code voor card bij thanks*/
 /*cards*/
 .cards {
